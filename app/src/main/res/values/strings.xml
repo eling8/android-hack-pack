@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">To Do List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">ADD</string>
+    <string name="long_press_desc">Long press an item to delete it</string>
+    <string name="title">To Do List</string>
+
+</resources>
